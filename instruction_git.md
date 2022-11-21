@@ -119,4 +119,4 @@
 
 Для того чтобы переходить между ветками нужно ввести команду:
 
-git checkout <name_branch>
+    git checkout <name_branch>
